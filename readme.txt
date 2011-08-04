@@ -1,21 +1,21 @@
 hspcmp proxy dll
-HSP ‚ÌƒXƒNƒŠƒvƒgƒtƒ@ƒCƒ‹‚É #compiler "DLL‚Ìƒtƒ@ƒCƒ‹–¼" ‚Æ‘‚­‚¾‚¯‚Å hspcmp.dll ‚ðØ‚è‘Ö‚¦‚ç‚ê‚é DLL
+HSP ã®ã‚¹ã‚¯ãƒªãƒ—ãƒˆãƒ•ã‚¡ã‚¤ãƒ«ã« #compiler "DLLã®ãƒ•ã‚¡ã‚¤ãƒ«å" ã¨æ›¸ãã ã‘ã§ hspcmp.dll ã‚’åˆ‡ã‚Šæ›¿ãˆã‚‰ã‚Œã‚‹ DLL
 --------------------------------------------------------------------------------
-HSP ‚ÌŽÀsƒ‰ƒ“ƒ^ƒCƒ€ ‚Í #runtime ‚ðŽg‚¤‚±‚Æ‚ÅØ‚è‘Ö‚¦‚ç‚ê‚Ü‚·B
-ƒo[ƒWƒ‡ƒ“‚Ìˆá‚¤ HSP ‚Ìƒ‰ƒ“ƒ^ƒCƒ€“¯Žm‚Ì“®ì‚ðŠm”F‚µ‚½‚¢‚Æ‚«‚É‚Í‚±‚Ì #runtime ‚Ìs‚ð‘‚«Š·‚¦‚é‚¾‚¯‚È‚Ì‚Å‚Æ‚Á‚Ä‚àŠy‚Å‚·B
-‚µ‚©‚µA ƒRƒ“ƒpƒCƒ‰‚Ìê‡‚Í‚»‚¤‚à‚¢‚«‚Ü‚¹‚ñB
-hspcmp.dll ‚Éã‘‚«ƒRƒs[‚·‚é‚Ì‚à–Ê“|‚¾‚µA‚»‚ê‚É•W€ƒGƒfƒBƒ^‚Ìê‡‚ÍƒRƒ“ƒpƒCƒ‹‚µ‚Ä‚¢‚È‚¢‚Æ‚«‚Å‚à hspcmp.dll ‚ð“Ç‚Ýž‚ñ‚Å‚¢‚ÄƒƒbƒN‚ª‚©‚©‚Á‚Ä‚¢‚Äã‘‚«‚Å‚«‚È‚¢‚µB
-‚»‚±‚Å‚±‚Ì hspcmp proxy dll ‚Ì“oê‚Å‚·I
-‚±‚ê‚ðŽg‚¤‚ÆƒXƒNƒŠƒvƒgƒtƒ@ƒCƒ‹‚É #compiler "DLL‚Ìƒtƒ@ƒCƒ‹–¼" ‚Æ‘‚­‚¾‚¯‚ÅƒRƒ“ƒpƒCƒ‰‚Ì DLL ‚ðØ‚è‘Ö‚¦‚ç‚ê‚Ü‚·B
+HSP ã®å®Ÿè¡Œãƒ©ãƒ³ã‚¿ã‚¤ãƒ  ã¯ #runtime ã‚’ä½¿ã†ã“ã¨ã§åˆ‡ã‚Šæ›¿ãˆã‚‰ã‚Œã¾ã™ã€‚
+ãƒãƒ¼ã‚¸ãƒ§ãƒ³ã®é•ã† HSP ã®ãƒ©ãƒ³ã‚¿ã‚¤ãƒ åŒå£«ã®å‹•ä½œã‚’ç¢ºèªã—ãŸã„ã¨ãã«ã¯ã“ã® #runtime ã®è¡Œã‚’æ›¸ãæ›ãˆã‚‹ã ã‘ãªã®ã§ã¨ã£ã¦ã‚‚æ¥½ã§ã™ã€‚
+ã—ã‹ã—ã€ ã‚³ãƒ³ãƒ‘ã‚¤ãƒ©ã®å ´åˆã¯ãã†ã‚‚ã„ãã¾ã›ã‚“ã€‚
+hspcmp.dll ã«ä¸Šæ›¸ãã‚³ãƒ”ãƒ¼ã™ã‚‹ã®ã‚‚é¢å€’ã ã—ã€ãã‚Œã«æ¨™æº–ã‚¨ãƒ‡ã‚£ã‚¿ã®å ´åˆã¯ã‚³ãƒ³ãƒ‘ã‚¤ãƒ«ã—ã¦ã„ãªã„ã¨ãã§ã‚‚ hspcmp.dll ã‚’èª­ã¿è¾¼ã‚“ã§ã„ã¦ãƒ­ãƒƒã‚¯ãŒã‹ã‹ã£ã¦ã„ã¦ä¸Šæ›¸ãã§ããªã„ã—ã€‚
+ãã“ã§ã“ã® hspcmp proxy dll ã®ç™»å ´ã§ã™ï¼
+ã“ã‚Œã‚’ä½¿ã†ã¨ã‚¹ã‚¯ãƒªãƒ—ãƒˆãƒ•ã‚¡ã‚¤ãƒ«ã« #compiler "DLLã®ãƒ•ã‚¡ã‚¤ãƒ«å" ã¨æ›¸ãã ã‘ã§ã‚³ãƒ³ãƒ‘ã‚¤ãƒ©ã® DLL ã‚’åˆ‡ã‚Šæ›¿ãˆã‚‰ã‚Œã¾ã™ã€‚
 
 --------------------------------------------------------------------------------
-	€”õ
+	æº–å‚™
 --------------------------------------------------------------------------------
-HSP ‚ÌƒCƒ“ƒXƒg[ƒ‹ƒfƒBƒŒƒNƒgƒŠ‚Ì hspcmp.dll ‚ð hspcmp-default.dll ‚É–¼‘O•ÏX‚µ‚Ü‚·B
-ihspcmp-default.dll ‚Í #compiler Žw’è‚ª‚È‚¢‚Æ‚«‚ÉŽg‚í‚ê‚Ü‚·j
-‚»‚µ‚ÄA hspcmp proxy dll ‚Ì hspcmp.dll ‚ð HSP ‚ÌƒCƒ“ƒXƒg[ƒ‹ƒfƒBƒŒƒNƒgƒŠ‚ÉƒRƒs[‚µ‚Ü‚·B
+HSP ã®ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã® hspcmp.dll ã‚’ hspcmp-default.dll ã«åå‰å¤‰æ›´ã—ã¾ã™ã€‚
+ï¼ˆhspcmp-default.dll ã¯ #compiler æŒ‡å®šãŒãªã„ã¨ãã«ä½¿ã‚ã‚Œã¾ã™ï¼‰
+ãã—ã¦ã€ hspcmp proxy dll ã® hspcmp.dll ã‚’ HSP ã®ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã«ã‚³ãƒ”ãƒ¼ã—ã¾ã™ã€‚
 
-‚ ‚ÆAhspcmp-default.dll ˆÈŠO‚É‚¢‚ë‚ñ‚Èƒo[ƒWƒ‡ƒ“‚Ì hspcmp.dll ‚ð“ü‚ê‚Æ‚©‚È‚¢‚ÆˆÓ–¡‚È‚¢‚Å‚·‚ËB
+ã‚ã¨ã€hspcmp-default.dll ä»¥å¤–ã«ã„ã‚ã‚“ãªãƒãƒ¼ã‚¸ãƒ§ãƒ³ã® hspcmp.dll ã‚’å…¥ã‚Œã¨ã‹ãªã„ã¨æ„å‘³ãªã„ã§ã™ã­ã€‚
 	hspcmp-31.dll
 	hspcmp-32b1.dll
 	hspcmp-32b2.dll
@@ -23,24 +23,24 @@ HSP ‚ÌƒCƒ“ƒXƒg[ƒ‹ƒfƒBƒŒƒNƒgƒŠ‚Ì hspcmp.dll ‚ð hspcmp-default.dll ‚É–¼‘O•ÏX‚µ‚Ü
 	hspcmp-work.dll
 	    :
 	    :
-	‚Ý‚½‚¢‚È‚©‚ñ‚¶‚ÅB
+	ã¿ãŸã„ãªã‹ã‚“ã˜ã§ã€‚
 
 --------------------------------------------------------------------------------
-	’ˆÓ
+	æ³¨æ„
 --------------------------------------------------------------------------------
-ƒXƒNƒŠƒvƒgƒtƒ@ƒCƒ‹‚©‚ç #compiler ‚Æ‘‚©‚ê‚½s‚ð’T‚·‚¾‚¯‚Å‚·‚©‚çA #include æ‚ÍŒ©‚È‚¢ã‚ÉA
-- #if 0 ` #endif “à
-- •¡”sƒRƒƒ“ƒg“à /* ` */
-- •¡”s•¶Žš—ñ“à {"``"}
-‚Å‚à #compiler ‚Æ‘‚¢‚Ä‚ ‚ê‚Î‚»‚ê‚ðE‚Á‚Ä‚µ‚Ü‚¢‚Ü‚·B
+ã‚¹ã‚¯ãƒªãƒ—ãƒˆãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ #compiler ã¨æ›¸ã‹ã‚ŒãŸè¡Œã‚’æŽ¢ã™ã ã‘ã§ã™ã‹ã‚‰ã€ #include å…ˆã¯è¦‹ãªã„ä¸Šã«ã€
+- #if 0 ï½ž #endif å†…
+- è¤‡æ•°è¡Œã‚³ãƒ¡ãƒ³ãƒˆå†… /* ï½ž */
+- è¤‡æ•°è¡Œæ–‡å­—åˆ—å†… {"ï½žï½ž"}
+ã§ã‚‚ #compiler ã¨æ›¸ã„ã¦ã‚ã‚Œã°ãã‚Œã‚’æ‹¾ã£ã¦ã—ã¾ã„ã¾ã™ã€‚
 
 
 
 HSPTV! : <http://hsp.tv/>
-HSPƒIƒtƒBƒVƒƒƒ‹ƒz[ƒ€ƒy[ƒW : <http://www.onionsoft.net/hsp/>
+HSPã‚ªãƒ•ã‚£ã‚·ãƒ£ãƒ«ãƒ›ãƒ¼ãƒ ãƒšãƒ¼ã‚¸ : <http://www.onionsoft.net/hsp/>
 OpenHSP : <http://www.onionsoft.net/hsp/openhsp/>
-ìŽÒ ( fujidig ) web ƒy[ƒW : <http://www.fujidig.com/>
-”z•zƒy[ƒW : <http://www.fujidig.com/archives/#hspcmp-proxy>
+ä½œè€… ( fujidig ) web ãƒšãƒ¼ã‚¸ : <http://www.fujidig.com/>
+é…å¸ƒãƒšãƒ¼ã‚¸ : <http://www.fujidig.com/archives/#hspcmp-proxy>
 
 fujidig 2009/5/8
 fuji.rosen@gmail.com
